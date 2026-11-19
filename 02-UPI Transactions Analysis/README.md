@@ -272,15 +272,3 @@ development to publishing the report in Power BI Service.
 - Report Publishing
 
 ---
-
-# Project Type
-
-Guided Power BI project completed as part of my Data Analyst training.
-
-## Dataset Source
-
-The dataset was provided as part of the Udemy course
-"Complete Data Analyst Bootcamp From Basics To Advanced"
-by Krish Naik and Jayant Topnani.
-
-The original course dataset is not redistributed in this repository.
